@@ -7,7 +7,7 @@
 //console.log() pokazuje na konsoli
 
 ------------------------------------------------------------------------
-/*VAR
+VAR
 var a;
 var b=3;
 a=8;
@@ -116,7 +116,7 @@ var removeFromArray=myArray.shift();
 
 var myArray=["kot", "pies"];
 myArray.unshift("pingwin");
-*/
+
 ------------------------------------------------------------------------
 FUNCTION
 
